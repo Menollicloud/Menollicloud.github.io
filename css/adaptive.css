@@ -1,0 +1,923 @@
+@media (max-width:1440px){
+    .block-title .title{
+        font-size: 54px;
+    }
+    .block-title .container{
+        padding-top: 250px;
+        padding-bottom: 200px;
+    }
+        
+    .cponsorLogo {
+        flex-wrap:wrap
+    }
+    .cponsorLogo img{
+        height: 90px;
+        width: 33%;
+        margin: auto;
+        object-fit: contain;
+    }
+    .cponsorLogo img:nth-child(4),
+    .cponsorLogo img:nth-child(5),
+    .cponsorLogo img:last-child{
+        margin-top:20px
+    }
+    .fortnite-wrap__block>div{
+        max-width: 44%;
+        flex: 0 0 44%;
+    }
+    .new-era__content {
+        max-width: 50%;
+        flex: 0 0 50%;
+    }
+    .new-era .title {
+        font-size: 44px;
+        line-height: 54px;
+    }
+    .new-era .subtitle {
+        font-size: 16px;
+        line-height: 30px;
+    }
+   
+    .new-era .container {
+        justify-content: space-between;
+    }
+    .new-era__img {
+        max-width: 40%;
+        flex: 0 0 40%;
+    }
+    .new-era__img img {
+        width: -webkit-fill-available;
+    }
+    .slider__img {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .slider__img img {
+        width: -webkit-fill-available;
+    }
+    .slider__content {
+        max-width: 42%;
+        margin-left: 8%;
+    }
+    .slider .title {
+        font-size: 44px;
+        line-height: 54px;
+    }
+    .slider .subtitle {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .slider-carusel img {
+        max-width: 33%;
+        flex: 0 0 33%;
+    }
+        .news .title {
+        font-size: 44px;
+        line-height: 54px;
+    }
+    .news-text {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .news-text.big {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .news-date {
+        font-size: 14px;
+        line-height: 14px;
+    }
+    .news-date.big {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .form .title {
+        font-size: 64px;
+        line-height: 74px;
+        margin-bottom: 30px;
+    }
+    .form .subtitle {
+        font-size: 16px;
+        line-height: 26px;
+    }
+}
+@media (max-width: 1140px){
+    .block-title .container {
+        padding-top: 200px;
+        padding-bottom: 100px;
+    }
+    .block-title .title {
+        font-size: 34px;
+        line-height: 44px;
+        margin-bottom: 30px;
+    }
+    .block-title__img>img {
+        width: -webkit-fill-available;
+    }
+    .btnWeb img {
+        max-width: 100px;
+    }
+    .block-title .subtitle {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 45px;
+    }
+    .fire-text {
+        font-size: 12px;
+    }
+    .fire-block img {
+        width: 20px;
+        height: 20px;
+    }
+    .fire-block {
+        margin-bottom: 10px;
+    }
+    .btn {
+        padding: 11px 16px;
+        font-size: 12px;
+    }
+    .nav a {
+        font-size: 12px;
+    }
+    .header .container {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .basket img {
+        width: 24px;
+    }
+    .header {
+        top: -88px;
+        height: 88px;
+    }
+    .sponsor .title {
+        font-size: 38px;
+        line-height: 48px;
+        margin-bottom: 30px;
+    }
+    .sponsor .subtitle {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .cponsorLogo img {
+        height: 65px;
+    }
+    .padding1-t-b {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .fortnite .title {
+        font-size: 40px;
+        max-width: 600px;
+        line-height: 54px;
+        margin-bottom: 30px;
+    }
+    .fortnite .subtitle {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 40px;
+    }
+    p.fortnite-wrap__text {
+        font-size: 10px;
+    }
+    .fortnite-wrap__block>div:last-child,.fortnite-wrap__block>div:nth-child(3) {
+        margin-bottom: 0;
+    }
+    .fortnite .padding1-t-b {
+        padding-top: 80px;
+    }
+    .new-era .title {
+        font-size: 34px;
+        line-height: 44px;
+        margin-bottom: 25px;
+    }
+    .new-era .subtitle {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 30px;
+    }
+    .slider .title {
+        font-size: 34px;
+        line-height: 44px;
+        margin-bottom: 25px;
+    }
+    .slider .subtitle {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 30px;
+    }
+    .slider-carusel img {
+        max-width: 32%;
+        flex: 0 0 32%;
+        padding: 7px;
+    }
+    .news .title {
+        font-size: 34px;
+        line-height: 44px;
+    }
+    .news_subtext {
+        margin-bottom: 40px;
+    }
+    .news-block img {
+        margin-bottom: 15px;
+    }
+    .news-date {
+        font-size: 10px;
+        margin-bottom: 10px;
+    }
+    .news-text {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .news-block__small>div:first-child, .news-block__small>div:nth-child(2) {
+        margin-bottom: 0px;
+    }
+    .news-text.big {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .news-date.big {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 10px;
+    }
+    .form .title {
+        font-size: 44px;
+        max-width: 600px;
+        line-height: 54px;
+    }
+    .form .subtitle {
+        font-size: 14px;
+        line-height: 20px;
+        max-width: 650px;
+    }
+    .form form input {
+        height: 50px;
+        font-size: 14px;
+        line-height: 20px;
+        max-width: 350px;
+    }
+    .footer-top>.container>.footer-logo {
+        order: 3;
+        max-width: 48%;
+        flex: 0 0 48%;
+        margin-top: 30px;
+        text-align: left;
+        border-top: 1px solid #fff;
+        padding-top: 15px !important;
+    }
+    .footer-top>.container>.footer-social {
+        order: 4;
+        margin-top: 30px;
+        border-top: 1px solid #fff;
+        padding-top: 15px !important;
+    }
+    .footer-top>.container>div {
+        max-width: 48%;
+        flex: 0 0 48%;
+        text-align: center;
+    }
+    .footer-container {
+        flex-wrap: wrap;
+        padding-bottom: 25px;
+    }
+    .footer-top {
+        padding-top: 80px;
+    }
+    footer .title {
+        font-size: 16px;
+        margin-bottom: 15px;
+        line-height: 20px;
+    }
+    footer .text {
+        line-height: 24px;
+        font-size: 14px;
+    }
+    .footer-logo img {
+        margin-bottom: 15px;
+    }
+    .footer-logo .text {
+        font-size: 12px;
+    }
+    .copyright {
+        padding: 25px 0;
+        font-size: 10px;
+    }
+    .counter {
+        font-size: 8px;
+        width: 19px;
+        height: 15px;
+        line-height: 16px;
+        top: -9px;
+        right: -18px;
+    }
+    .side-panel a {
+        margin-right: 30px;
+        font-size: 8px;
+        line-height: 16px;
+    }
+}
+@media(max-width:991px){
+    .header nav ul>li:not(:last-child){
+        margin-right: 30px;
+    }
+    .header .container>a {
+        max-width: 120px;
+        width: 100%;
+    }
+    .header .container>a img {
+        width: -webkit-fill-available;
+    }
+    .header .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .padding-l-r {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .block-title .container {
+        padding-top: 150px;
+        padding-bottom: 100px;
+    }
+    .block-title .title {
+        font-size: 24px;
+        line-height: 34px;
+        margin-bottom: 20px;
+    }
+    .fire-text {
+        font-size: 10px;
+    }
+    .fire-block img {
+        width: 15px;
+        height: 15px;
+    }
+    .block-title .subtitle {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .padding1-t-b {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .sponsor .title {
+        font-size: 30px;
+        line-height: 38px;
+        margin-bottom: 20px;
+    }
+    .sponsor .subtitle {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .cponsorLogo img {
+        height: 55px;
+    }
+    .fortnite .padding1-t-b {
+        padding-top: 50px;
+        padding-bottom: 60px;
+    }
+    .fortnite .title {
+        font-size: 30px;
+        max-width: 350px;
+        line-height: 38px;
+        margin-bottom: 20px;
+    }
+    .fortnite .subtitle {
+        font-size: 12px;
+        max-width: 450px;
+        line-height: 18px;
+        margin-bottom: 30px;
+    }
+    .fortnite-wrap__block>div {
+        padding: 20px 20px 20px 60px;
+    }
+    .fortnite-wrap__text {
+        font-size: 9px;
+    }
+    .header {
+        top: -82px;
+        height: 82px;
+    }
+    .new-era .title {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .new-era .subtitle {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .sircle-big {
+        width: 80px;
+        height: 80px;
+    }
+    .sircle-small {
+        width: 60px;
+        height: 60px;
+    }
+    .new-era__img .sircle-small img {
+        width: 25px;
+        height: 25px;
+    }
+    .slider__content {
+        padding-top: 50px;
+    }
+    .slider .title {
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 15px;
+    }
+    .slider .subtitle {
+        font-size: 12px;
+        line-height: 18px;
+        margin-bottom: 15px;
+    }
+    .choice>.container>div {
+        min-height: 450px;
+        background-size: cover;
+    }
+    .news .title {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .news-text {
+        font-size: 9px;
+        line-height: 15px;
+    }
+    .news-date {
+        font-size: 8px;
+        line-height: 16px;
+        margin-bottom: 0;
+    }
+    .news-text.big {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .news-date.big {
+        font-size: 10px;
+        line-height: 16px;
+        margin-bottom: 4px;
+    }
+    .news-block__small>div:first-child, .news-block__small>div:nth-child(2) {
+        margin-bottom: 20px;
+    }
+    .news-block img {
+        margin-bottom: 10px;
+    }
+    .form .title {
+        font-size: 34px;
+        line-height: 40px;
+        max-width: 400px;
+    }
+    .form .subtitle {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .nav a{
+        font-size: 10px;
+    }
+    .basket img {
+        width: 16px;
+    }
+    .counter {
+        width: 15px;
+        height: 11px;
+        line-height: 11px;
+        top: -2px;
+        right: -15px;
+    }
+    .header .container {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .header {
+        top: -62px;
+        height: 62px;
+    }
+    .btn {
+        padding: 6px 10px;
+        font-size: 10px;
+    }
+    .form form input {
+        height: 36px;
+        font-size: 10px;
+    }
+    .footer-top {
+        padding-top: 40px;
+    }
+    footer .text {
+        font-size: 10px;
+        line-height: 14px;
+    }
+    footer .title {
+        font-size: 12px;
+        margin-bottom: 10px;
+        line-height: 12px;
+    }
+    .footer-logo .text {
+        font-size: 10px;
+        line-height: 14px;
+        max-width: 60%;
+    }
+    .footer-logo img {
+        max-width: 120px;
+    }
+    .news_subtext {
+        margin-bottom: 25px;
+    }
+}
+@media(max-width:768px){
+    .side-panel{
+        display: none !important;
+    }
+    .padding-l-r {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .basket {
+        flex-grow: 1;
+        text-align: end;
+        margin: 0;
+    }
+    .block-title .col-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .block-title .title {
+        font-size: 40px;
+        line-height: 54px;
+    }
+    .block-title .subtitle {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .btn {
+        padding: 16px 24px;
+        font-size: 12px;
+    }
+    .btnWeb img {
+        max-width: 120px;
+    }
+    .sponsor .title {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    .sponsor .subtitle {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .sponsor .padding1-t-b {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .sponsor {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .sponsor .container {
+        backdrop-filter: blur(5px);
+    }
+    .fire-text {
+        font-size: 14px;
+    }
+    .fire-block img {
+        width: 20px;
+        height: 20px;
+    }
+    .fortnite .title {
+        font-size: 40px;
+        max-width: 100%;
+        line-height: 46px;
+    }
+    .fortnite .subtitle {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 40px;
+    }
+    .fortnite-wrap__block>div {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+    .fortnite-wrap__title {
+        font-size: 20px;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+    p.fortnite-wrap__text {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .fortnite-wrap__block>div:nth-child(3) {
+        margin-bottom: 30px;
+    }
+    .new-era__content, .new-era__img {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+    .header .container>a {
+        max-width: 180px;
+    }
+    .header {
+        top: -70px;
+        height: 70px;
+    }
+    .new-era .title {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .new-era .subtitle {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .new-era__content {
+        margin-bottom: 40px;
+    }
+    .sircle-big {
+        width: 130px;
+        height: 130px;
+    }
+    .sircle-small {
+        width: 90px;
+        height: 90px;
+    }
+    .new-era__img .sircle-small img {
+        width: 40px;
+        height: 40px;
+    }
+    .slider__img,.slider__content {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .slider__content {
+        order: -1;
+        margin-bottom: 30px;
+        margin-left: 0;
+    }
+    .slider .title {
+        font-size: 40px;
+        line-height: 46px;
+    }
+    .slider .subtitle {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .slider-carusel {
+        width: 100%;
+    }
+    .slider__img {
+        text-align: center;
+    }
+    .choice>.container>div {
+        max-width: 50%;
+        flex: 0 0 100%;
+        background-size: cover;
+    }
+    .choice .container {
+        justify-content: center;
+    }
+    .news_subtext {
+        flex-direction: column;
+    }
+    .news .title {
+        font-size: 40px;
+        line-height: 48px;
+    }
+    .news-title {
+        margin-bottom: 20px;
+    }
+    .news-title .fire-block {
+        justify-content: center;
+    }
+    .news .btn-block {
+        margin: auto;
+    }
+    .news-block>.col-6 {
+        max-width: 100%;
+        flex: 0 0 100%;
+    }
+    .news-block {
+        flex-wrap: wrap;
+    }
+    .news_subtext .btn-block {
+        display: none !important;
+    }
+    .news-text {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .news-date {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+    .news-text.big {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .news-date.big {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .news-block img {
+        margin-bottom: 20px;
+    }
+    .news-block__small>div:first-child, .news-block__small>div:nth-child(2) {
+        margin-bottom: 40px;
+    }
+    .news-block__big {
+        margin-bottom: 40px;
+    }
+    .form .title {
+        font-size: 40px;
+        line-height: 48px;
+        max-width: 100%;
+    }
+    .form .subtitle {
+        font-size: 11px;
+        line-height: 23px;
+    }
+    .form form input {
+        height: 60px;
+        font-size: 16px;
+    }
+    .footer-top>.container>div {
+        max-width: 100%;
+        flex: 0 0 100%;
+        margin-top: 30px;
+        border-top: 1px solid #fff;
+        padding-top: 15px !important;
+    }
+    .footer-top>.container>.footer-logo {
+        max-width: 100%;
+        flex: 0 0 100%;
+        order: unset;
+        display: flex;
+    }
+    .footer-top {
+        padding-top: 0;
+    }
+    .footer-logo .text {
+        font-size: 14px;
+        margin-left: 40px;
+        line-height: 24px;
+    }
+    .footer-logo img {
+        object-fit: contain;
+        margin: auto;
+        max-width: 180px;
+    }
+    footer .title {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    footer .text {
+        font-size: 16px;
+        line-height: 32px;
+    }
+    .slick-slide img {
+        max-width: 200px;
+        margin: auto;
+    }
+    .slider__img{
+        display:none;
+    }
+}
+@media(max-width:540px){
+    .block-title {
+        background: linear-gradient(    to bottom, rgba(0, 0, 0, 1) 65%,   #57B8FF 100%      );
+    }
+    .block-title .title {
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .block-title .subtitle {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .block-title .btn-block {
+        justify-content: space-evenly;
+    }
+    .block-title__content {
+        margin-bottom: 40px;
+    }
+    .btnWeb {
+        bottom: -5%;
+    }
+    .sponsor .title {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .sponsor .subtitle {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .cponsorLogo img {
+        width: 50%;
+        height: 70px;
+        margin-bottom: 25px;
+    }
+    .cponsorLogo img:nth-child(4), .cponsorLogo img:nth-child(5), .cponsorLogo img:last-child {
+        margin-top: 0;
+    }
+    .cponsorLogo img:nth-child(5), .cponsorLogo img:last-child {
+        margin-bottom: 0;
+    }
+    .fortnite .title {
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .fortnite .subtitle {
+        font-size: 14px;
+        max-width: 450px;
+        line-height: 22px;
+    }
+    .new-era .title {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .new-era .subtitle {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .new-era .btn-block {
+        justify-content: end;
+    }
+    .new-era__img img {
+        max-width: 320px;
+    }
+    .new-era__img {
+        text-align: center;
+    }
+    .sircle-big {
+        width: 80px;
+        height: 80px;
+    }
+    .sircle-small {
+        width: 60px;
+        height: 60px;
+    }
+    .new-era__img .sircle-small img {
+        width: 25px;
+        height: 25px;
+    }
+    .slider .title {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .slider__img img {
+        max-width: 320px;
+    }
+    .choice>.container>div {
+        max-width: 80%;
+    }
+    .news .title {
+        font-size: 28px;
+        line-height: 36px;
+        text-align: center;
+    }
+    .news-text {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .form .title {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    .form .subtitle {
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .form .subtitle br {
+        display: none;
+    }
+    .form form input {
+        font-size: 12px;
+    }
+    .form form {
+        flex-direction: column;
+    }
+    .form form .btn {
+        margin-top: 20px;
+    }
+    .header .container>a {
+        max-width: 140px;
+    }
+    .basket {
+        flex-grow: unset;
+    }
+    .hamburger-menu {
+        padding: 8px;
+    }
+    .footer-top>.container>.footer-logo {
+        flex-direction: column;
+    }
+    .footer-logo .text {
+        margin-left: 0;
+        max-width: 100%;
+        margin-top: 25px;
+        font-size: 13px;
+    }
+}
+@media (max-width: 400px){
+    .btn-block{
+        flex-direction: column;
+    }
+}
